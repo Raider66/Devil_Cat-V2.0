@@ -11,14 +11,14 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "2348133286181"
-global.ownername = "Lord No Name"
+global.ownername = "ダーク🀄"
 global.ytname = "Lord No Name"
-global.socialm = "wa.me/2348133286181"
+global.socialm = "wa.me/2347019733982"
 global.location = "NIGERIA"
 
 global.ownernumber = '2348133286181'  //creator number
 global.ownername = 'Lord No Name' //owner name
-global.botname = 'Devil_Cat-V2.0 ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.botname = 'ダーク' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
